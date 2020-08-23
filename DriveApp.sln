@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriveApp", "DriveApp\DriveApp.csproj", "{98750951-5653-435A-BB60-AC7B2E61EDDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98750951-5653-435A-BB60-AC7B2E61EDDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98750951-5653-435A-BB60-AC7B2E61EDDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98750951-5653-435A-BB60-AC7B2E61EDDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98750951-5653-435A-BB60-AC7B2E61EDDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23D03A5A-BF03-4ECC-A788-D6C9600D4646}
+	EndGlobalSection
+EndGlobal
